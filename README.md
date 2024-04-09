@@ -29,3 +29,8 @@ View more [flags to use with serve](https://www.getzola.org/documentation/gettin
 ## Contribute
 
 [How to contribute](CONTRIBUTING.md)
+
+
+## Favicons
+
+Pulled from favicon.io from the open source project Twemoji. The favicon emoji are copyright 2020 Twitter, Inc and other contributors. The favicon emoji is licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).
