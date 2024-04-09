@@ -7,7 +7,7 @@ draft = false
 
 There's a lot of websites with information like "Games like X" but what if you really like a specific mechanic? Either have a look at the Games tab, use the search bar, or view the homepage to start your search!
 
-Feel free to add games to these lists (or make your own video game mechanics lists!) by [contributing to the repo](https://github.com/StringPotatoTheory/awesome-video-game-mechanics) on GitHub. Either [create an issue](https://github.com/StringPotatoTheory/awesome-video-game-mechanics/issues) with your mechanic and games, or fork and create a pull request with your additions.
+Feel free to add games to these lists (or make your own video game mechanics lists!) by [contributing to the repo](https://github.com/StringPotatoTheory/awesome-video-game-mechanics/blob/main/CONTRIBUTING.md) on GitHub. Either [create an issue](https://github.com/StringPotatoTheory/awesome-video-game-mechanics/issues) with your mechanic and games, or fork and create a pull request with your additions.
 
 ---
 
