@@ -40,10 +40,7 @@
     <article>
     {{- macros::title_post(page=page, config=config) }}
 
-    {%- if config.extra.meta_post.position %}
-    {%- if config.extra.meta_post.position == "top" or config.extra.meta_post.position == "both" %}
-    {{- macros::meta_post(page=page, config=config) }}
-    {%- endif %}{%- endif %}
+    <div><a href="{{config.extra.edit_post_base_url}}/{{page.relative_path}}">Edit on GitHub</a></div>
 
     {# In Page Series Navigation #}
     {%- if config.extra.series | default(value=true) %}
@@ -83,6 +80,13 @@
 
 {{ page.content | safe }}
 
+  {%- if config.extra.meta_post.position %}
+    {%- if config.extra.meta_post.position == "top" or config.extra.meta_post.position == "both" %}
+      <br>
+      {{- macros::meta_post(page=page, config=config) }}
+      <br>
+  {%- endif %}{%- endif %}
+
     {% if page.backlinks %}
       <br>
       <strong>Backlinks</strong>
@@ -108,6 +112,7 @@
     {%- endif %}
     {%- endblock comments_body %}
     </article>
+
     {%- block toc %}
     {%- if config.extra.toc | default(value=true) %}
     {%- if page.extra.toc %}
