@@ -1,6 +1,6 @@
 # The URL the site will be built for
 # don't include a trailing slash on the base URL
-base_url = "https://stringpotatotheory.github.io"
+base_url = "https://stringpotatotheory.github.io/awesome-video-game-mechanics"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
@@ -210,7 +210,7 @@ feed = true # this adds the RSS feed icon in the footer.
 ###############################################################################
 
 # do NOT include a trailing slash on the online URL
-#online_url = "https://abridge.netlify.app"
+online_url = "https://stringpotatotheory.github.io/awesome-video-game-mechanics"
 online_indexformat = "elasticlunr_json"# used to restore your preferred index format when offline = false
 offline = false # implies uglyurls=true and integrity=false, when true NPM/node will automatically set the path for the base_url, it will build the site, then set the base_url back to what it was.
 
