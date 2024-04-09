@@ -1,6 +1,6 @@
 # The URL the site will be built for
 # don't include a trailing slash on the base URL
-base_url = "https://stringpotatotheory.github.io/awesome-video-game-mechanics"
+base_url = "https://stringpotatotheory.github.io"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
