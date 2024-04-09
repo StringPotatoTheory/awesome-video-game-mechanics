@@ -1,5 +1,5 @@
 # On every push this script is executed, or when it's manually run
-on: [workflow_dispatch] # add push again once this works
+on: [workflow_dispatch, push]
 name: Zola Build and deploy GH Pages
 jobs:
   build:
