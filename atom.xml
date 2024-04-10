@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Video Game Mechanics Wiki</title>
+    <subtitle>A list of video games that share video game mechanics.</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://stringpotatotheory.github.io/awesome-video-game-mechanics/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://stringpotatotheory.github.io/awesome-video-game-mechanics"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-04-09T00:00:00+00:00</updated>
+    <id>https://stringpotatotheory.github.io/awesome-video-game-mechanics/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Time Loops</title>
+        <published>2024-04-09T00:00:00+00:00</published>
+        <updated>2024-04-09T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://stringpotatotheory.github.io/awesome-video-game-mechanics/time-loop/"/>
+        <id>https://stringpotatotheory.github.io/awesome-video-game-mechanics/time-loop/</id>
+        
+        <content type="html" xml:base="https://stringpotatotheory.github.io/awesome-video-game-mechanics/time-loop/">&lt;p&gt;Prime examples of this are Outer Wilds, Twelve Minutes, and Majora&#x27;s Mask.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;stringpotatotheory.github.io&#x2F;awesome-video-game-mechanics&#x2F;games&#x2F;outer-wilds-2019&#x2F;&quot;&gt;Outer Wilds&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Twelve Minutes&lt;&#x2F;li&gt;
+&lt;li&gt;The Forgotten City&lt;&#x2F;li&gt;
+&lt;li&gt;Legend of Zelda: Majora&#x27;s Mask&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Complex Simulated Worlds</title>
+        <published>2024-04-08T00:00:00+00:00</published>
+        <updated>2024-04-08T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://stringpotatotheory.github.io/awesome-video-game-mechanics/complex-simulated-worlds/"/>
+        <id>https://stringpotatotheory.github.io/awesome-video-game-mechanics/complex-simulated-worlds/</id>
+        
+        <content type="html" xml:base="https://stringpotatotheory.github.io/awesome-video-game-mechanics/complex-simulated-worlds/">&lt;ul&gt;
+&lt;li&gt;Cities Skylines&lt;&#x2F;li&gt;
+&lt;li&gt;Dwarf Fortress&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;need-to-research&quot;&gt;Need to research&lt;&#x2F;h2&gt;
+&lt;p&gt;Some RTS games&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Caesar 3&lt;&#x2F;li&gt;
+&lt;li&gt;Rimworld&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Fully Destructible Environments + Creation</title>
+        <published>2024-04-08T00:00:00+00:00</published>
+        <updated>2024-04-08T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://stringpotatotheory.github.io/awesome-video-game-mechanics/fully-destructible-environments/"/>
+        <id>https://stringpotatotheory.github.io/awesome-video-game-mechanics/fully-destructible-environments/</id>
+        
+        <content type="html" xml:base="https://stringpotatotheory.github.io/awesome-video-game-mechanics/fully-destructible-environments/">&lt;ul&gt;
+&lt;li&gt;Minecraft&lt;&#x2F;li&gt;
+&lt;li&gt;Terraria&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;need-to-research&quot;&gt;Need to research&lt;&#x2F;h2&gt;
+&lt;p&gt;More voxel games?&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Good Flight Mechanics in Non-Flight Simulator Games</title>
+        <published>2024-04-08T00:00:00+00:00</published>
+        <updated>2024-04-08T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://stringpotatotheory.github.io/awesome-video-game-mechanics/good-flight-mechanics/"/>
+        <id>https://stringpotatotheory.github.io/awesome-video-game-mechanics/good-flight-mechanics/</id>
+        
+        <content type="html" xml:base="https://stringpotatotheory.github.io/awesome-video-game-mechanics/good-flight-mechanics/">&lt;ul&gt;
+&lt;li&gt;Digital Combat Simulator World (DCS World)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;need-to-research&quot;&gt;Need to research&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;War Thunder&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Time Travel</title>
+        <published>2024-04-08T00:00:00+00:00</published>
+        <updated>2024-04-08T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://stringpotatotheory.github.io/awesome-video-game-mechanics/time-travel/"/>
+        <id>https://stringpotatotheory.github.io/awesome-video-game-mechanics/time-travel/</id>
+        
+        <content type="html" xml:base="https://stringpotatotheory.github.io/awesome-video-game-mechanics/time-travel/">&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;stringpotatotheory.github.io&#x2F;awesome-video-game-mechanics&#x2F;games&#x2F;outer-wilds-2019&#x2F;&quot;&gt;Outer Wilds&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Life is Strange&lt;&#x2F;li&gt;
+&lt;li&gt;The Forgotten City&lt;&#x2F;li&gt;
+&lt;li&gt;Braid&lt;&#x2F;li&gt;
+&lt;li&gt;Legend of Zelda: Ocarina of Time&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>True Roleplaying Games</title>
+        <published>2024-04-08T00:00:00+00:00</published>
+        <updated>2024-04-08T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://stringpotatotheory.github.io/awesome-video-game-mechanics/true-roleplay/"/>
+        <id>https://stringpotatotheory.github.io/awesome-video-game-mechanics/true-roleplay/</id>
+        
+        <content type="html" xml:base="https://stringpotatotheory.github.io/awesome-video-game-mechanics/true-roleplay/">&lt;ul&gt;
+&lt;li&gt;Runescape&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;stringpotatotheory.github.io&#x2F;awesome-video-game-mechanics&#x2F;games&#x2F;baldurs-gate-3-2023&#x2F;&quot;&gt;Baldur&#x27;s Gate 3&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Fallout New Vegas&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>World Can Change Without the Player</title>
+        <published>2024-04-08T00:00:00+00:00</published>
+        <updated>2024-04-08T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://stringpotatotheory.github.io/awesome-video-game-mechanics/world-can-change-without-player/"/>
+        <id>https://stringpotatotheory.github.io/awesome-video-game-mechanics/world-can-change-without-player/</id>
+        
+        <content type="html" xml:base="https://stringpotatotheory.github.io/awesome-video-game-mechanics/world-can-change-without-player/">&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;stringpotatotheory.github.io&#x2F;awesome-video-game-mechanics&#x2F;games&#x2F;baldurs-gate-3-2023&#x2F;&quot;&gt;Baldur&#x27;s Gate 3&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Mount and Blade&lt;&#x2F;li&gt;
+&lt;li&gt;Red Dead Redemption 2&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;changes-in-the-world-are-smaller&quot;&gt;Changes in the world are smaller&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Kingdom Come: Deliverance&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;need-to-research&quot;&gt;Need to research&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Pathologic&lt;&#x2F;li&gt;
+&lt;li&gt;Warband&lt;&#x2F;li&gt;
+&lt;li&gt;Starsector&lt;&#x2F;li&gt;
+&lt;li&gt;Dwarf Fortress&lt;&#x2F;li&gt;
+&lt;li&gt;Kenshi&lt;&#x2F;li&gt;
+&lt;li&gt;STALKER anomaly&lt;&#x2F;li&gt;
+&lt;li&gt;Rain World&lt;&#x2F;li&gt;
+&lt;li&gt;No Man&#x27;s Sky&lt;&#x2F;li&gt;
+&lt;li&gt;Oblivion&lt;&#x2F;li&gt;
+&lt;li&gt;Elite Dangerous&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Entire World is a Puzzle</title>
+        <published>2024-04-08T00:00:00+00:00</published>
+        <updated>2024-04-08T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://stringpotatotheory.github.io/awesome-video-game-mechanics/world-is-a-puzzle/"/>
+        <id>https://stringpotatotheory.github.io/awesome-video-game-mechanics/world-is-a-puzzle/</id>
+        
+        <content type="html" xml:base="https://stringpotatotheory.github.io/awesome-video-game-mechanics/world-is-a-puzzle/">&lt;p&gt;Prime examples of this are Tunic and The Witness.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Tunic&lt;&#x2F;li&gt;
+&lt;li&gt;The Witness&lt;&#x2F;li&gt;
+&lt;li&gt;Return of the Obra Dinn&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;stringpotatotheory.github.io&#x2F;awesome-video-game-mechanics&#x2F;games&#x2F;chants-of-sennaar-2023&#x2F;&quot;&gt;Chants of Sennaar&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;stringpotatotheory.github.io&#x2F;awesome-video-game-mechanics&#x2F;games&#x2F;outer-wilds-2019&#x2F;&quot;&gt;Outer Wilds&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;The Forgotten City&lt;&#x2F;li&gt;
+&lt;li&gt;Fez&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;need-to-research&quot;&gt;Need to research&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Myst Remake&lt;&#x2F;li&gt;
+&lt;li&gt;Riven&lt;&#x2F;li&gt;
+&lt;li&gt;The Talos Principle&lt;&#x2F;li&gt;
+&lt;li&gt;The Room series&lt;&#x2F;li&gt;
+&lt;li&gt;Supraland&lt;&#x2F;li&gt;
+&lt;li&gt;Heaven&#x27;s Vault&lt;&#x2F;li&gt;
+&lt;li&gt;Call of the Sea&lt;&#x2F;li&gt;
+&lt;li&gt;The Swapper&lt;&#x2F;li&gt;
+&lt;li&gt;Manifold Garden&lt;&#x2F;li&gt;
+&lt;li&gt;The Turing Test&lt;&#x2F;li&gt;
+&lt;li&gt;Toki Tori 2+&lt;&#x2F;li&gt;
+&lt;li&gt;RiME&lt;&#x2F;li&gt;
+&lt;li&gt;Deliver Us the Moon&lt;&#x2F;li&gt;
+&lt;li&gt;Obduction&lt;&#x2F;li&gt;
+&lt;li&gt;Full Bore&lt;&#x2F;li&gt;
+&lt;li&gt;Logistical: Earth&lt;&#x2F;li&gt;
+&lt;li&gt;Superliminal&lt;&#x2F;li&gt;
+&lt;li&gt;Baba is you&lt;&#x2F;li&gt;
+&lt;li&gt;Strange Horticulture&lt;&#x2F;li&gt;
+&lt;li&gt;Cocoon&lt;&#x2F;li&gt;
+&lt;li&gt;La Mulana 1+2&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Breaking the 4th Wall</title>
+        <published>2024-04-07T00:00:00+00:00</published>
+        <updated>2024-04-07T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://stringpotatotheory.github.io/awesome-video-game-mechanics/breaking-the-4th-wall/"/>
+        <id>https://stringpotatotheory.github.io/awesome-video-game-mechanics/breaking-the-4th-wall/</id>
+        
+        <content type="html" xml:base="https://stringpotatotheory.github.io/awesome-video-game-mechanics/breaking-the-4th-wall/">&lt;ul&gt;
+&lt;li&gt;Undertale&lt;&#x2F;li&gt;
+&lt;li&gt;Inscryption&lt;&#x2F;li&gt;
+&lt;li&gt;Pony Island&lt;&#x2F;li&gt;
+&lt;li&gt;OneShot&lt;&#x2F;li&gt;
+&lt;li&gt;Doki Doki Literature Club&lt;&#x2F;li&gt;
+&lt;li&gt;The Stanley Parable&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;smaller-moments-in-the-game-easter-eggs&quot;&gt;Smaller moments in the game &#x2F; easter eggs&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Baldur&#x27;s Gate 2&lt;&#x2F;li&gt;
+&lt;li&gt;Spec Ops: The Line&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;need-to-research&quot;&gt;Need to research&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;The Magic Circle&lt;&#x2F;li&gt;
+&lt;li&gt;The Corridor&lt;&#x2F;li&gt;
+&lt;li&gt;Imscared&lt;&#x2F;li&gt;
+&lt;li&gt;The Beginner&#x27;s Guide&lt;&#x2F;li&gt;
+&lt;li&gt;There is no Game: Wrong Dimension&lt;&#x2F;li&gt;
+&lt;li&gt;Save the Date! (By Paper Dino)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Custom Difficulty Settings</title>
+        <published>2024-04-07T00:00:00+00:00</published>
+        <updated>2024-04-07T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://stringpotatotheory.github.io/awesome-video-game-mechanics/custom-difficulty-settings/"/>
+        <id>https://stringpotatotheory.github.io/awesome-video-game-mechanics/custom-difficulty-settings/</id>
+        
+        <content type="html" xml:base="https://stringpotatotheory.github.io/awesome-video-game-mechanics/custom-difficulty-settings/">&lt;p&gt;Games where you have more say over the difficulty than just &amp;quot;Easy&amp;quot;, &amp;quot;Normal&amp;quot;, and &amp;quot;Hard&amp;quot;. You can individually adjust the difficulty settings to your liking.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;stringpotatotheory.github.io&#x2F;awesome-video-game-mechanics&#x2F;games&#x2F;baldurs-gate-3-2023&#x2F;&quot;&gt;Baldur&#x27;s Gate 3&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Celeste&lt;&#x2F;li&gt;
+&lt;li&gt;Hades&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;some-customization&quot;&gt;Some customization&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Tunic&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Time Rewind</title>
+        <published>2024-04-07T00:00:00+00:00</published>
+        <updated>2024-04-07T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://stringpotatotheory.github.io/awesome-video-game-mechanics/time-rewind/"/>
+        <id>https://stringpotatotheory.github.io/awesome-video-game-mechanics/time-rewind/</id>
+        
+        <content type="html" xml:base="https://stringpotatotheory.github.io/awesome-video-game-mechanics/time-rewind/">&lt;p&gt;Prime examples of this are the time rewind mechanics in Life is Strange, and Braid.&lt;&#x2F;p&gt;
+&lt;p&gt;Note this is different than the entire game being a &lt;a href=&quot;https:&#x2F;&#x2F;stringpotatotheory.github.io&#x2F;awesome-video-game-mechanics&#x2F;time-loop&#x2F;&quot;&gt;time loop&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Life is Strange&lt;&#x2F;li&gt;
+&lt;li&gt;Braid&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;smaller-mechanic-in-the-game&quot;&gt;Smaller mechanic in the game&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Legend of Zelda: Tears of the Kingdom - You can rewind certain objects in the world so they move, but you aren&#x27;t rewinding yourself or anything else outside of that object.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Chants of Sennaar</title>
+        <published>2023-09-05T00:00:00+00:00</published>
+        <updated>2023-09-05T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://stringpotatotheory.github.io/awesome-video-game-mechanics/games/chants-of-sennaar-2023/"/>
+        <id>https://stringpotatotheory.github.io/awesome-video-game-mechanics/games/chants-of-sennaar-2023/</id>
+        
+        <content type="html" xml:base="https://stringpotatotheory.github.io/awesome-video-game-mechanics/games/chants-of-sennaar-2023/"></content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Baldur&#x27;s Gate 3</title>
+        <published>2023-08-03T00:00:00+00:00</published>
+        <updated>2023-08-03T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://stringpotatotheory.github.io/awesome-video-game-mechanics/games/baldurs-gate-3-2023/"/>
+        <id>https://stringpotatotheory.github.io/awesome-video-game-mechanics/games/baldurs-gate-3-2023/</id>
+        
+        <content type="html" xml:base="https://stringpotatotheory.github.io/awesome-video-game-mechanics/games/baldurs-gate-3-2023/"></content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Outer Wilds</title>
+        <published>2019-05-28T00:00:00+00:00</published>
+        <updated>2019-05-28T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://stringpotatotheory.github.io/awesome-video-game-mechanics/games/outer-wilds-2019/"/>
+        <id>https://stringpotatotheory.github.io/awesome-video-game-mechanics/games/outer-wilds-2019/</id>
+        
+        <content type="html" xml:base="https://stringpotatotheory.github.io/awesome-video-game-mechanics/games/outer-wilds-2019/"></content>
+        
+    </entry>
+</feed>

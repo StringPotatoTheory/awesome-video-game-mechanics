@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Video Game Mechanics Wiki - settings</title>
+    <subtitle>A list of video games that share video game mechanics.</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://stringpotatotheory.github.io/awesome-video-game-mechanics/tags/settings/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://stringpotatotheory.github.io/awesome-video-game-mechanics"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-04-07T00:00:00+00:00</updated>
+    <id>https://stringpotatotheory.github.io/awesome-video-game-mechanics/tags/settings/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Custom Difficulty Settings</title>
+        <published>2024-04-07T00:00:00+00:00</published>
+        <updated>2024-04-07T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://stringpotatotheory.github.io/awesome-video-game-mechanics/custom-difficulty-settings/"/>
+        <id>https://stringpotatotheory.github.io/awesome-video-game-mechanics/custom-difficulty-settings/</id>
+        
+        <content type="html" xml:base="https://stringpotatotheory.github.io/awesome-video-game-mechanics/custom-difficulty-settings/">&lt;p&gt;Games where you have more say over the difficulty than just &amp;quot;Easy&amp;quot;, &amp;quot;Normal&amp;quot;, and &amp;quot;Hard&amp;quot;. You can individually adjust the difficulty settings to your liking.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;stringpotatotheory.github.io&#x2F;awesome-video-game-mechanics&#x2F;games&#x2F;baldurs-gate-3-2023&#x2F;&quot;&gt;Baldur&#x27;s Gate 3&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Celeste&lt;&#x2F;li&gt;
+&lt;li&gt;Hades&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;some-customization&quot;&gt;Some customization&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Tunic&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+</feed>

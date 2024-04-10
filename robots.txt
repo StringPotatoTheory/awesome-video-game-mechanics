@@ -1,0 +1,5 @@
+
+Sitemap: https://stringpotatotheory.github.io/awesome-video-game-mechanics/sitemap.xml
+User-Agent: *
+Allow: /
+Host: https://stringpotatotheory.github.io/awesome-video-game-mechanics
